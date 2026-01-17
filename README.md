@@ -1,4 +1,4 @@
-# Weather Forecast Dashboard
+# Weather Forecast Application
 Built by Aabhinav • Bengaluru • 2026
 
 Interactive real-time weather app built with Python & Streamlit.
