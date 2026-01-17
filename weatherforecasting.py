@@ -15,7 +15,7 @@ from reportlab.lib.styles import getSampleStyleSheet
 
 # ================= CONFIG =================
 st.set_page_config(
-    page_title="Ultimate Weather Forecaster",
+    page_title="Blue Horizon",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -45,7 +45,7 @@ else:  # Dark
         </style>
     """, unsafe_allow_html=True)
 
-st.title("🌤️ Ultimate Weather Forecaster")
+st.title("🌤️ Blue Horizon")
 st.markdown("Search any city worldwide • Real-time + forecast + air quality + historical + PDF export")
 
 # Session state
